@@ -4,7 +4,7 @@ module.exports = {
       open: process.platform === 'darwin',
       host: 'localhost',
       port: 8080,
-      https: false,
+      https: true,
       hotOnly: false,
     }
   };
